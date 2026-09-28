@@ -1,0 +1,9 @@
+name = "rhine-lab"
+main = "src/index.js"
+compatibility_date = "2026-09-01"
+workers_dev = true
+
+[[d1_databases]]
+binding = "DB"
+database_name = "rhine-lab"
+database_id = "d513975f-fb49-4ed7-8d6b-ade2f71f43f1"
