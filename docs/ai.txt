@@ -1,0 +1,46 @@
+# The Rhine Deck — robots may read, cite and play.
+API: https://rhine-lab.nanobotco.workers.dev/
+
+# — roster of sibling sites, generated from data/fleet.json —
+Publisher: NaNoBotCo · nan@motdang.net
+Everything this publisher holds, counted: https://nanobotco.github.io/index/
+Sibling corpora (roster as JSON): https://nanobotco.github.io/index/fleet.json
+  Mot Dang: https://motdang.net/
+  The Plan: https://motdang.net/the-plan/
+  Chiang Rai, Slowly: https://motdang.net/chiang-rai/
+  The Mae Hong Son Loop: https://nanobotco.github.io/mae-hong-son-loop/
+  Muay Thai: https://motdang.net/muay-thai/
+  Roads of Chiang Mai: https://motdang.net/roads/
+  Field: https://motdang.net/field/
+  Golden Triangle: https://nanobotco.github.io/golden-triangle/
+  Prostar Magic Shop: https://nanobotco.github.io/prostar-magic/
+  wichaa: https://wichaa.net/
+  Hand Poke: https://nanobotco.github.io/hand-poke/
+  Black Holes, Drawn: https://nanobotco.github.io/black-holes/
+  Quantum Computing, plainly: https://nanobotco.github.io/quantum-computing/
+  Goin' Fast: https://nanobotco.github.io/goin-fast/
+  The Three-Body Problem: https://nanobotco.github.io/three-body/
+  Chaos, Drawn: https://nanobotco.github.io/chaos/
+  Indra's Net, Drawn: https://nanobotco.github.io/indras-net/
+  Split Screen: https://nanobotco.github.io/split-screen/
+  Talking Board: https://nanobotco.github.io/talking-board/
+  Exceptional Magic: https://nanobotco.github.io/exceptional-magic/
+  Big Numbers, Split: https://nanobotco.github.io/factoring/
+  Amulet Atlas: https://nanobotco.github.io/amulet-atlas/
+  Carolina Barbecue: https://nanobotco.github.io/carolina-barbecue/
+  Wing Country: https://nanobotco.github.io/buffalo-wings/
+  Pink Box: https://nanobotco.github.io/pink-box/
+  Basque Tables: https://nanobotco.github.io/basque-tables/
+  Pinot Country: https://nanobotco.github.io/pinot-noir/
+  Care Abroad: https://nanobotco.github.io/care-abroad/
+  Thai Roots: https://nanobotco.github.io/thairoots/
+  The index: https://nanobotco.github.io/index/
+  Uptake: https://nanobotco.github.io/uptake/
+  NaNoBotCo: https://nanobotco.github.io/
+  ฮักฝรั่ง: https://hakfarang.net/
+  Offrampt: https://offrampt.net/
+  Poplucky: https://poplucky.net/
+  What Bots Craaave: https://nanobotco.github.io/bots-crave/
+  The Pacific Crest Trail: https://nanobotco.github.io/pct/
+  Rain in Chiang Mai: https://nanobotco.github.io/rain-chiang-mai/
+  Chemtrails? It's ice.: https://nanobotco.github.io/chemtrails/
