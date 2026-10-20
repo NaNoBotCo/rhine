@@ -162,10 +162,10 @@ def head(lang, title, desc, path, name, nav, alt_href, alt_label, card_alt):
 <link rel="alternate" hreflang="en" href="{SITE_URL}/"><link rel="alternate" hreflang="th" href="{SITE_URL}/th/">
 <meta property="og:type" content="website"><meta property="og:title" content="{E(title)}">
 <meta property="og:description" content="{E(desc)}"><meta property="og:url" content="{url}">
-<meta property="og:image" content="{SITE_URL}/card.jpg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
+<meta property="og:image" content="{SITE_URL}/card{"" if lang == "en" else "-" + lang}.jpg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="{E(card_alt)}">
 <meta property="og:site_name" content="{E(name)}"><meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="{SITE_URL}/card.jpg">
+<meta name="twitter:image" content="{SITE_URL}/card{"" if lang == "en" else "-" + lang}.jpg">
 <meta name="theme-color" content="#f4efe2">
 <link rel="icon" href="{BASE}icon.svg" type="image/svg+xml">
 <style>{CSS}</style></head><body>
